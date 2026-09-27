@@ -4,6 +4,8 @@
 
 Built by Team X (T28) at ARGONYX '26, RV University, 25–26 Sep 2026. Everything in this repository was made during the 24-hour event (see [Built during the event](#built-during-the-event)).
 
+**🏆 Winner of the Best UI/UX award at ARGONYX '26.**
+
 [![ci](https://github.com/Argonyx-26/T28-Team-X/actions/workflows/ci.yml/badge.svg)](https://github.com/Argonyx-26/T28-Team-X/actions/workflows/ci.yml)
 
 - **Demo video:** https://github.com/Argonyx-26/T28-Team-X/releases/tag/demo-video (a 2:41 cut and the full 4:08 version)
